@@ -16,9 +16,7 @@ baseurl:          /gnr
 
 author:
   name:           'chungying_yu@hotmail.com'
-  url:            ''''
-
-
+  url:            ''
 
 paginate:         5
 # paginate_path:    '/page:num'
