@@ -18,9 +18,13 @@ author:
   name:           'chungying_yu@hotmail.com'
   url:            ''''
 
+
+
 paginate:         5
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
+# Google Analytics
+google_analytics: G-9P1MWQVWTF # 將 G-XXXXXXXXXX 替換為您的實際 GA4 追蹤 ID
 
 plugins:
   - jekyll-feed
