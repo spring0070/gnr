@@ -3,10 +3,10 @@ layout: page
 title: About Me
 sidebar_link: true
 ---
-![my screenshot](/assets/IMG_2428-209-208.JPG)
+![my screenshot](assets/Lupin3.png)
 ## Joseph Yu
+contact me: chungying_yu@hotmail.com
 
-### 數位記憶
-* 透過圖文記錄世界各地地理人文知識<br>
+### 美股股市每日動態分析
 
 
