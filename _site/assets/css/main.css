@@ -363,7 +363,7 @@ body {
 
 .container > header {
   background: transparent;
-  color: #0bb5b5;
+  color: #fff;
   margin: -1.5rem 2rem 2rem;
 }
 .container > header h1,
@@ -494,7 +494,7 @@ body {
 }
 
 #sidebar .site-title {
-  color: #0bb5b5;
+  color: #fff;
 }
 #sidebar .site-title a {
   color: inherit;
