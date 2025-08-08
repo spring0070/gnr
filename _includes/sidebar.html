@@ -1,5 +1,8 @@
 <div id="sidebar">
   <header>
+     <div class="site-logo">
+      <img src="{{ "favicon.png" | relative_url }}" alt="Site Logo" style="max-width:100px;">
+    </div>
     <{% if page.layout == "index" %}h1{% else %}div{% endif %} class="site-title">
       <a href="{{ "/" | relative_url }}">
         {% unless page.url == "/" %}
